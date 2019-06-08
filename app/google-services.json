@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190319362852",
+    "firebase_url": "https://digitalequipmentstore.firebaseio.com",
+    "project_id": "digitalequipmentstore",
+    "storage_bucket": "digitalequipmentstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190319362852:android:b3362d052e54d237",
+        "android_client_info": {
+          "package_name": "com.digitalequipmentstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190319362852-n372nq982a75usviotsht63p03epn22j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalequipmentstore",
+            "certificate_hash": "3e69adf5a5a058f17c01ad6f8bd71c37a8ca3cea"
+          }
+        },
+        {
+          "client_id": "190319362852-6u4kgcinj98nv2tpm07bsl0sev0uioej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVQ3s3cSfOeML6tJFLOWlknbc9N9xvl2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190319362852-6u4kgcinj98nv2tpm07bsl0sev0uioej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
